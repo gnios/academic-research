@@ -1,0 +1,93 @@
+{
+  "version": 2,
+  "skills": {
+    "busca-academica": {
+      "source": "cardososampaio/rcs-skills-academicas",
+      "commit": "8e0ae7169c13a07a5b3b0b48f38e783d96ccb73f",
+      "sourceType": "github",
+      "skillPath": "skills/busca-academica/SKILL.md",
+      "computedHash": "43a847ad32f2c29f8562d100d4dcbe02d9bc47c30b9e16af712dc681df5fe9ca",
+      "installMode": "copy"
+    },
+    "citation-management": {
+      "source": "lingzhi227/agent-research-skills",
+      "commit": "9e6c085d65e313e475e921fdfe795ac11eb7589e",
+      "sourceType": "github",
+      "skillPath": "skills/citation-management/SKILL.md",
+      "computedHash": "d5a278898df054ac465db265d4edc3228f4eceea45753ec69965bdd5b356884f",
+      "installMode": "copy"
+    },
+    "escritaacademica": {
+      "source": "cardososampaio/rcs-skills-academicas",
+      "commit": "8e0ae7169c13a07a5b3b0b48f38e783d96ccb73f",
+      "sourceType": "github",
+      "skillPath": "skills/escritaacademica/SKILL.md",
+      "computedHash": "41d3c4e88dee1272955a3ffad83b55caa165be5315c3cc8550671c65e8f31093",
+      "installMode": "copy"
+    },
+    "fichamento-academico": {
+      "source": "cardososampaio/rcs-skills-academicas",
+      "commit": "8e0ae7169c13a07a5b3b0b48f38e783d96ccb73f",
+      "sourceType": "github",
+      "skillPath": "skills/fichamento-academico/SKILL.md",
+      "computedHash": "ba055aefa7246569ef010a274d6949e6df61a6c48dad80ecfb7f1449f053adf3",
+      "installMode": "copy"
+    },
+    "latex-academic-br": {
+      "source": "thejoaov/skills",
+      "commit": "4b91bf4012163c85b22f289d92f3c3ec7f93f6df",
+      "sourceType": "github",
+      "skillPath": "skills/latex-academic-br/SKILL.md",
+      "computedHash": "6b95abfdfc456a33838c343f02f8694eb1ac80bc93f9cba3cb88ecded5aba58e",
+      "installMode": "copy"
+    },
+    "literature-review": {
+      "source": "lingzhi227/agent-research-skills",
+      "commit": "9e6c085d65e313e475e921fdfe795ac11eb7589e",
+      "sourceType": "github",
+      "skillPath": "skills/literature-review/SKILL.md",
+      "computedHash": "81af527bad15ae61dff7474c15efdb293938d6d0a9c73d5686d4de5e40e6116e",
+      "installMode": "copy"
+    },
+    "literature-search": {
+      "source": "lingzhi227/agent-research-skills",
+      "commit": "9e6c085d65e313e475e921fdfe795ac11eb7589e",
+      "sourceType": "github",
+      "skillPath": "skills/literature-search/SKILL.md",
+      "computedHash": "4aa042656aa41a14224f5af736eab9a76ecacdeedc36b04f8cd5e316396680c1",
+      "installMode": "copy"
+    },
+    "melhorar-prompts-academicos": {
+      "source": "cardososampaio/rcs-skills-academicas",
+      "commit": "8e0ae7169c13a07a5b3b0b48f38e783d96ccb73f",
+      "sourceType": "github",
+      "skillPath": "skills/melhorar-prompts-academicos/SKILL.md",
+      "computedHash": "44b0592a0da4de0b8bbcbdab90b8e1a2007a96e0e1ffc0e02fd8ef9421cd3016",
+      "installMode": "copy"
+    },
+    "parecerista-academico": {
+      "source": "cardososampaio/rcs-skills-academicas",
+      "commit": "8e0ae7169c13a07a5b3b0b48f38e783d96ccb73f",
+      "sourceType": "github",
+      "skillPath": "skills/parecerista-academico/SKILL.md",
+      "computedHash": "0add9fddfe17f190f6b2c8fe784ef5703870ffb217296541a479cbbddf4938ae",
+      "installMode": "copy"
+    },
+    "pesquisador-br": {
+      "source": "DevAlissu/pesquisador-br-skill",
+      "commit": "c8bef396bacb9f14c6603a3207fb469f7dc38469",
+      "sourceType": "github",
+      "skillPath": "skills/pesquisador-br/SKILL.md",
+      "computedHash": "b2d2aa76e188d343e2c32bd7c4b51688941d695e8af675e8b526e107678aca33",
+      "installMode": "copy"
+    },
+    "tcc-abnt": {
+      "source": "DevAlissu/pesquisador-br-skill",
+      "commit": "c8bef396bacb9f14c6603a3207fb469f7dc38469",
+      "sourceType": "github",
+      "skillPath": "skills/tcc-abnt/SKILL.md",
+      "computedHash": "85434f40d874a1a1130f1f4e35733ea47f15fda232ef66dac5281d90a85438b6",
+      "installMode": "copy"
+    }
+  }
+}
