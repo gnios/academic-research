@@ -1,0 +1,30 @@
+{
+  "data": "2026-11-20",
+  "consultas": [
+    {
+      "fonte": "OpenAlex",
+      "url": "https://api.openalex.org/works?search=juventude+cidades+pequenas&per_page=4",
+      "status": "resposta arquivada"
+    },
+    {
+      "fonte": "SciELO",
+      "url": "https://search.scielo.org/?q=juventude+%22projetos+de+vida%22&count=4",
+      "status": "HTTP Error 403: Forbidden"
+    },
+    {
+      "fonte": "DOAJ",
+      "url": "https://doaj.org/api/search/articles/juventude%20AND%20%22cidades%20pequenas%22?pageSize=4",
+      "status": "resposta arquivada"
+    },
+    {
+      "fonte": "Crossref",
+      "url": "https://api.crossref.org/works?query.bibliographic=juventude+cidades+pequenas&rows=4",
+      "status": "resposta arquivada"
+    },
+    {
+      "fonte": "Semantic Scholar",
+      "url": "https://api.semanticscholar.org/graph/v1/paper/search?query=juventude+cidades+pequenas&limit=4&fields=title%2Cauthors%2Cyear%2Cvenue%2CexternalIds%2Curl%2Cabstract",
+      "status": "HTTP Error 429: "
+    }
+  ]
+}
